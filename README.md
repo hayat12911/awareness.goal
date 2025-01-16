@@ -31,13 +31,3 @@ docker run -it --rm -p 5000:5000 hackprincetonf16
 
 Update `var server` in [extension/myScript.js](extension/myScript.js) to `http://localhost:5000` before installing the extension manually.
 
-## About us
-This project is still under development (a lot of work is required and is also being put in). All of us are Univeristy students trying to help solve a problem social media faces. As university we may sometimes take a while to fix issues or approve pull request, please bear with us. We are always on the lookout for sponsors for this project as we are non-profit and need money to run our servers and cover our API costs.
-
-## Contributing to this project
-We love contributors. We are open source and every contribution helps. Please read [CONTRIBUTE.md](CONTRIBUTE.md) for how to contribute to our project.
-
-## Licensing
-This project is protected under Open Software License 3.0
-
-Please read [License.md](License.md)
